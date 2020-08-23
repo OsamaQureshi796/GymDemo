@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44855745049",
+    "firebase_url": "https://powerhouse-c623a.firebaseio.com",
+    "project_id": "powerhouse-c623a",
+    "storage_bucket": "powerhouse-c623a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44855745049:android:cce6e19daa216c03632888",
+        "android_client_info": {
+          "package_name": "com.iflashapps.powerhouseclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44855745049-pm879ojrhe81kkd05ochdqh7mpu4meu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMMvAjYWmelbSxwMPxt3A8fhDcg2fl78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44855745049-pm879ojrhe81kkd05ochdqh7mpu4meu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
